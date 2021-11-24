@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008418695491",
+    "project_id": "chattingkotlinrealtime",
+    "storage_bucket": "chattingkotlinrealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008418695491:android:7bde07b19fd1597d7667f6",
+        "android_client_info": {
+          "package_name": "dev.riset.chatrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008418695491-n92arihcabrlcquu8738eoa2sitfe07m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTE6F_9rtp996hTcowWfjoRzjLbWpcK2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008418695491-n92arihcabrlcquu8738eoa2sitfe07m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
